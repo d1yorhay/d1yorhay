@@ -9,7 +9,7 @@
 - 📫 How to reach me **diyorhay@gmail.com**
 
 - ⚡ Fun fact **I don't like public places**
-- 
+  
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/users/893440111138717699)
