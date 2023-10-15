@@ -28,6 +28,7 @@
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=orange)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=orange)
+![UNITY](https://img.shields.io/badge/UNITY-black?style=for-the-badge&logo=UNITY&logoColor=orange)
 
 ---
 ## 📊 GitHub Stats:
