@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [d1yorhay.github.io](d1yorhay.github.io)
+- 👨‍💻 All of my projects are available at [d1yorhay.github.io](https://d1yorhay.github.io/)
 
 - 📫 How to reach me **diyorhay@gmail.com**
 
