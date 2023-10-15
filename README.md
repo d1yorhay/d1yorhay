@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diyor Haydarov</h1>
 <h3 align="center">Student programmer from Uzbekistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d1yorhay&label=Profile%20views&color=0e75b6&style=flat" alt="d1yorhay" /> </p>
-
-- 🔭 I’m currently working on [D1YORHAY Portfolio Website](https://github.com/d1yorhay/d1yorhay.github.io)
-
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [d1yorhay.github.io](d1yorhay.github.io)
@@ -13,12 +9,9 @@
 
 - ⚡ Fun fact **I don't like public places**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/d1yorhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="d1yorhay" height="30" width="40" /></a>
-<a href="https://instagram.com/d1yorhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d1yorhay" height="30" width="40" /></a>
-<a href="https://discord.gg/893440111138717699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="893440111138717699" height="30" width="40" /></a>
-</p>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/893440111138717699) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/d1yorhay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d1yorhay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d1yorhay) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/d1yorhay) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/d1yorhay) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@d1yorhay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/d1yorhay) 
 
 # 💻 Tech Stack:
 ![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=Python&logoColor=orange)
@@ -32,6 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d1yorhay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=d1yorhay&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=d1yorhay&icon=2&color=2)](https://visitcount.itsvg.in)
