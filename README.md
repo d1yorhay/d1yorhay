@@ -28,8 +28,8 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=orange)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d1yorhay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=d1yorhay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=d1yorhay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=d1yorhay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=d1yorhay&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=d1yorhay&icon=2&color=2)](https://visitcount.itsvg.in)
